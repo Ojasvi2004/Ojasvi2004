@@ -90,5 +90,5 @@
 
 <div align="center">
   <i>Open to internships, research collaborations, and full-time software/ML engineering roles.</i><br>
-  📫 Feel free to connect on <b><a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a></b> or reach out at <b>ojasvisaini2111@gmail.com</b>!
+  📫 Feel free to connect on <b><a href="https://www.linkedin.com/in/ojasvi-saini-b961b8325/">LinkedIn</a></b> or reach out at <b>ojasvisaini2111@gmail.com</b>!
 </div>
