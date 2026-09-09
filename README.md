@@ -3,8 +3,8 @@
   # Hi there, I'm Ojasvi Saini 👋
   ### Machine Learning Engineer & Full-Stack Developer
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/ojasvi-saini-b961b8325/))
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([https://leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/u/OjasSaini2004/))
   [![Email](https://img.shields.io/badge/Email-ojasvisaini2111%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojasvisaini2111@gmail.com)
 
   <p align="center">
