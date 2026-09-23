@@ -68,11 +68,11 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[CuraLink – AI Healthcare Platform](https://github.com/YOUR_GITHUB_USERNAME/curalink)** | `MERN` `FastAPI` `LangChain` `Tesseract OCR` | • Dual-context RAG chatbot handling patient-specific lab summaries and general queries.<br>• Automated OCR pipeline parsing complex diagnostic reports into indexed MongoDB records. |
-| **[Market_Mind](https://github.com/YOUR_GITHUB_USERNAME/market-mind)** | `PyTorch` `Transformers` `LightGBM` `DVC` | • Multi-horizon stock return forecaster trained on 25+ years of S&P 500 data.<br>• Hybrid parallel LSTM/GRU/Transformer encoders stacked with tree ensembles (Ridge Stacking). |
-| **[End-to-End Insurance MLOps Pipeline](https://github.com/YOUR_GITHUB_USERNAME/vehicle-insurance-mlops)** | `Docker` `AWS ECR/S3` `GitHub Actions` `FastAPI` | • Full production MLOps lifecycle: Ingestion $\to$ SMOTEENN balancing $\to$ Champion-Challenger validation.<br>• Automated Docker image builds, CI/CD, and AWS S3 model registry. |
-| **[Medical Image Classification](https://github.com/YOUR_GITHUB_USERNAME/medical-image-classification)** | `PyTorch` `DenseNet-121` `EfficientNet-B4` `CUDA` | • Multi-label chest X-ray and skin lesion diagnosis on NIH ChestXray14 & ISIC 2019 datasets.<br>• Trained with Focal Loss, mixed precision (AMP), and weighted sampling for heavy class imbalance. |
-| **[From-Scratch GPT Transformer](https://github.com/YOUR_GITHUB_USERNAME/from-scratch-gpt)** | `PyTorch` `NLP` `Attention Mechanisms` | • Complete decoder-only GPT model engineered from first principles.<br>• Features multi-head causal self-attention, cosine LR schedule, and mixed-precision training. |
+| **[CuraLink – AI Healthcare Platform](https://github.com/Ojasvi2004/CuraLinkFull)** | `MERN` `FastAPI` `LangChain` `Tesseract OCR` | • Dual-context RAG chatbot handling patient-specific lab summaries and general queries.<br>• Automated OCR pipeline parsing complex diagnostic reports into indexed MongoDB records. |
+| **[Market_Mind](https://github.com/Ojasvi2004/Market_Mind)** | `PyTorch` `Transformers` `LightGBM` `DVC` | • Multi-horizon stock return forecaster trained on 25+ years of S&P 500 data.<br>• Hybrid parallel LSTM/GRU/Transformer encoders stacked with tree ensembles (Ridge Stacking). |
+| **[End-to-End Insurance MLOps Pipeline](https://github.com/Ojasvi2004/End-To-End-Vehicle_Insurance_Prediction-Pipeline)** | `Docker` `AWS ECR/S3` `GitHub Actions` `FastAPI` | • Full production MLOps lifecycle: Ingestion $\to$ SMOTEENN balancing $\to$ Champion-Challenger validation.<br>• Automated Docker image builds, CI/CD, and AWS S3 model registry. |
+| **[Medical Image Classification](https://github.com/Ojasvi2004/EffiecienNetB4Dermoscopic.py)** | `PyTorch` `DenseNet-121` `EfficientNet-B4` `CUDA` | • Multi-label chest X-ray and skin lesion diagnosis on NIH ChestXray14 & ISIC 2019 datasets.<br>• Trained with Focal Loss, mixed precision (AMP), and weighted sampling for heavy class imbalance. |
+| **[From-Scratch GPT Transformer](https://github.com/Ojasvi2004/GPT_Recreation)** | `PyTorch` `NLP` `Attention Mechanisms` | • Complete decoder-only GPT model engineered from first principles.<br>• Features multi-head causal self-attention, cosine LR schedule, and mixed-precision training. |
 
 ---
 
